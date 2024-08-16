@@ -1,0 +1,7 @@
+{
+    "enchantment.soulbound.soulbound": "Soulbound",
+    "enchantment.soulbound.soulbound.desc": "The item is retained upon death",
+    "text.autoconfig.soulbound.option.allowBreakItem": "Damage to items is allowed",
+    "text.autoconfig.soulbound.option.maxDamagePercent": "Max percentage of damage",
+    "text.autoconfig.soulbound.title": "Soulbound"
+  }
