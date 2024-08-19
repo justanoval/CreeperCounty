@@ -7,7 +7,16 @@
       "releasedAt": 1723822908024,
       "promotions": {
         "downloads": {
-          "generic": "https://example.com/"
+          "generic": "https://modrinth.com/modpack/creeper-county/version/1.0.1"
+        }
+      }
+    },
+    {
+      "id": "1.0.2",
+      "releasedAt": 1724042231041,
+      "promotions": {
+        "downloads": {
+          "generic": "https://modrinth.com/modpack/creeper-county/version/1.0.2"
         }
       }
     }
