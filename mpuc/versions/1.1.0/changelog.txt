@@ -6,3 +6,9 @@
 - Removed "Not Enough Animations" due to possible incompatibility with Figura
 - Updated "Antique Atlas 4" to the latest version (2.9.17+1.21)
 - Updated "Surveyor Map Framework" to the latest version (0.6.23+1.21)
+
+The map mod was swapped out due to causing repetitive server lag:
+- Removed "Antique Atlas 4"
+- Removed "Surveyor Map Framework"
+- Added "Xaero's World Map"
+- Added "Xaero's Minimap"
