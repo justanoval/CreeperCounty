@@ -1,4 +1,3 @@
-## Creeper County Changelog v1.1
 - Added "Celebrations," a custom mod by yours truly
   - Intended for the birthday party, but includes a variety of items that benefit gameplay
 - Added "CarryOn" as a dependent of "Celebrations," default functionality disabled
