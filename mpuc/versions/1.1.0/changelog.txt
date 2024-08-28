@@ -1,0 +1,9 @@
+## Creeper County Changelog v1.1.0
+- Added "Celebrations," a custom mod by yours truly
+  - Intended for the birthday party, but includes a variety of items that benefit gameplay.
+- Added "CarryOn" as a dependent of "Celebrations," default functionality disabled
+- Added "ChatImage"
+  - Will not work for the time being
+- Removed "Not Enough Animations" due to possible incompatibility with Figura
+- Updated Antique Atlas to latest version
+- Updated Surveyor Map Framework to latest version
