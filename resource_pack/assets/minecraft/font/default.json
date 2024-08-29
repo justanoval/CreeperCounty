@@ -2,12 +2,121 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "minecraft:font/icons/discord.png",
+            "file": "creeper_county:ui/icons/discord.png",
             "ascent": 7,
             "height": 7,
             "chars": [
-                "\uE000"
+                ""
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "creeper_county:ui/icons/mayor.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "creeper_county:ui/title.png",
+            "ascent": 40,
+            "height": 40,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "creeper_county:ui/info.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "creeper_county:ui/warn.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                ""
+            ]
+        }
+        ,
+        {
+            "type": "bitmap",
+            "file": "creeper_county:ui/warn.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "chars": [
+                ""
+            ],
+            "ascent": -32768,
+            "height": -1,
+            "file": "creeper_county:ui/space_nosplit.png",
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                ""
+            ],
+            "ascent": -32768,
+            "height": -3,
+            "file": "creeper_county:ui/space_nosplit.png",
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                ""
+            ],
+            "ascent": -32768,
+            "height": -10,
+            "file": "creeper_county:ui/space_nosplit.png",
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                ""
+            ],
+            "ascent": -32768,
+            "height": 1,
+            "file": "creeper_county:ui/space_split.png",
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                ""
+            ],
+            "ascent": -32768,
+            "height": -10,
+            "file": "creeper_county:ui/space_split.png",
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                ""
+            ],
+            "ascent": -32768,
+            "height": -3,
+            "file": "creeper_county:ui/space_split.png",
+            "type": "bitmap"
+        },
+        {
+            "chars": [
+                ""
+            ],
+            "ascent": -32768,
+            "height": -3,
+            "file": "creeper_county:ui/space_split.png",
+            "type": "bitmap"
         }
     ]
 }
