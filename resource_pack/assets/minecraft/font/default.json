@@ -20,11 +20,47 @@
         },
         {
             "type": "bitmap",
+            "file": "creeper_county:ui/icons/mayor.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "👑"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "creeper_county:ui/title.png",
             "ascent": 40,
             "height": 40,
             "chars": [
                 ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "creeper_county:ui/title.png",
+            "ascent": 30,
+            "height": 80,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "creeper_county:ui/locations/town_hall.png",
+            "ascent": 10,
+            "height": 40,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "creeper_county:ui/locations/the_nether.png",
+            "ascent": 10,
+            "height": 50,
+            "chars": [
+                ""
             ]
         },
         {
