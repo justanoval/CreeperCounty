@@ -1,0 +1,10 @@
+{
+    "block.computercraft.cable": "Cable",
+    "block.computercraft.computer_advanced": "Computer",
+    "block.computercraft.monitor_advanced": "Monitor",
+    "block.computercraft.wired_modem": "Wired Modem",
+    "block.computercraft.wired_modem_full": "Modem Block",
+    "block.computercraft.wireless_modem_normal": "Wireless Modem",
+    "item.computercraft.pocket_computer_advanced": "Pocket Computer",
+    "item.computercraft.pocket_computer_advanced.upgraded": "Pocket Computer"
+}
