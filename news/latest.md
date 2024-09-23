@@ -30,3 +30,5 @@
 
 ## General
 - Added Pehkui
+- Updated the main menu
+- Added the "news board" to the GUI
