@@ -37,6 +37,15 @@
           "generic": "https://modrinth.com/modpack/creeper-county/version/1.2.0b"
         }
       }
+    },
+    {
+      "id": "1.2.1b",
+      "releasedAt": 1727115841965,
+      "promotions": {
+        "downloads": {
+          "generic": "https://modrinth.com/modpack/creeper-county/version/1.2.1b"
+        }
+      }
     }
   ]
 }
