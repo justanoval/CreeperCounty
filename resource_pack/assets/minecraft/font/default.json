@@ -20,6 +20,24 @@
         },
         {
             "type": "bitmap",
+            "file": "creeper_county:ui/icons/mayor.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "👑"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "creeper_county:ui/icons/creeper.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "🍀"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "creeper_county:ui/title.png",
             "ascent": 40,
             "height": 40,
