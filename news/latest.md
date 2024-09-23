@@ -1,6 +1,4 @@
-# Changelog 1.2.0
-
-## Walkie 1.0.3 -> Walkie 1.1.0
+## Walkie 1.1.0
 
 ### New Features
 - Added a unique **Trinkets** slot for the Walkie, allowing players to listen to the channel they're on while not taking up an inventory slot. It will also render the player's Walkie on their back
