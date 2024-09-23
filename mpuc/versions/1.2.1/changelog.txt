@@ -1,0 +1,3 @@
+- Updated Walkie 1.1.0 -> 1.1.0b
+    - Hotfix to fix the rendering of the trinket on other players
+- Updated Fancymenu slightly to accomodate other aspect ratios, still working on that
